@@ -2,7 +2,7 @@
   "name": "workshop-2",
   "version": "0.0.1",
   "scripts": {
-    "serve": "./node_modules/.bin/http-server -c-1"
+    "server": "./node_modules/.bin/http-server -c-1"
   },
   "author": "John Vilk <jvilk@cs.umass.edu>",
   "devDependencies": {
