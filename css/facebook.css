@@ -22,7 +22,6 @@ body {
 }
 
 /* Style applies to a elements within ul elements with class nav within
-
 an element with class fb-trending */
 .fb-trending ul .nav a {
     padding-left: 5px;
@@ -109,13 +108,13 @@ an element with class fb-trending */
 }
 
 /* Customize the look of non-active pills in trending widget */
-.fb-trending>.row:first-childli a {
+.fb-trending>.row:first-child li a {
 /* Tells the element to inherit the color from its parent. Remember thatwe set 'color' for the entire right sidebar to gray! */
     color: inherit;
 }
 
 /* Customize the look of active pills in trending widget */
-.fb-trending>.row:first-childli.activea {
+.fb-trending>.row:first-child li.active a {
     background-color: transparent;
 /* Same color as the lightning bolt */
     color: #5990ff;
