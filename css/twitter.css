@@ -1,0 +1,22 @@
+.tweet_links button{
+	width:80px;
+	border:0px;
+	color:#aab8c2;
+}
+
+.zero{
+	padding:0px;
+	height:34px;
+	border-radius: 30px;
+	width:40px; 
+	border-left: transparent;
+}
+
+.form-control{
+  -webkit-border-radius: 30px;
+     -moz-border-radius: 30px;
+          border-radius: 30px;
+}
+.line{
+	display: inline;
+}
